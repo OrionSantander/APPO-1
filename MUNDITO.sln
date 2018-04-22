@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUNDITO.Plugins", "MUNDITO.Plugins.csproj", "{27F76F8D-FEF8-840F-0A5A-8F80B9C6A600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUNDITO", "MUNDITO.csproj", "{EEC6810F-C285-915E-D223-ECA00D96EF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUNDITO.Editor.Plugins", "MUNDITO.Editor.Plugins.csproj", "{90AE0C28-7571-5C5A-695B-1844A8F7D23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F76F8D-FEF8-840F-0A5A-8F80B9C6A600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F76F8D-FEF8-840F-0A5A-8F80B9C6A600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F76F8D-FEF8-840F-0A5A-8F80B9C6A600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F76F8D-FEF8-840F-0A5A-8F80B9C6A600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC6810F-C285-915E-D223-ECA00D96EF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC6810F-C285-915E-D223-ECA00D96EF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC6810F-C285-915E-D223-ECA00D96EF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC6810F-C285-915E-D223-ECA00D96EF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AE0C28-7571-5C5A-695B-1844A8F7D23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AE0C28-7571-5C5A-695B-1844A8F7D23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AE0C28-7571-5C5A-695B-1844A8F7D23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AE0C28-7571-5C5A-695B-1844A8F7D23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
